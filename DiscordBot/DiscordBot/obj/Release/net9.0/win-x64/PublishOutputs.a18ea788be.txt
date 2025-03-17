@@ -1,0 +1,2 @@
+G:\C# Projects\DiscordBot\DiscordBot\bin\Release\net9.0\publish\win-x64\DiscordBot.pdb
+G:\C# Projects\DiscordBot\DiscordBot\bin\Release\net9.0\publish\win-x64\DiscordBot.exe

@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\C# Projects\\DiscordBot\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{48837210-36A5-4704-83D2-C5495008B14A}|DiscordBot\\DiscordBot.csproj|g:\\c# projects\\discordbot\\discordbot\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48837210-36A5-4704-83D2-C5495008B14A}|DiscordBot\\DiscordBot.csproj|solutionrelative:discordbot\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48837210-36A5-4704-83D2-C5495008B14A}|DiscordBot\\DiscordBot.csproj|g:\\c# projects\\discordbot\\discordbot\\token.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{48837210-36A5-4704-83D2-C5495008B14A}|DiscordBot\\DiscordBot.csproj|solutionrelative:discordbot\\token.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Token.xml",
+              "DocumentMoniker": "G:\\C# Projects\\DiscordBot\\DiscordBot\\Token.xml",
+              "RelativeDocumentMoniker": "DiscordBot\\Token.xml",
+              "ToolTip": "G:\\C# Projects\\DiscordBot\\DiscordBot\\Token.xml",
+              "RelativeToolTip": "DiscordBot\\Token.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAABtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-03-17T02:28:46.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\C# Projects\\DiscordBot\\DiscordBot\\Program.cs",
+              "RelativeDocumentMoniker": "DiscordBot\\Program.cs",
+              "ToolTip": "G:\\C# Projects\\DiscordBot\\DiscordBot\\Program.cs",
+              "RelativeToolTip": "DiscordBot\\Program.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAAAFcAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T02:18:02.508Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
